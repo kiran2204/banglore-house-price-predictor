@@ -1,2 +1,2 @@
-# banglore-house-price-predictor
+# Banglore-house-price-predictor
 house price predictor
